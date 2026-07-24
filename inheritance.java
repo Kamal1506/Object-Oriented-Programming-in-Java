@@ -1,3 +1,14 @@
+// Inheritance is an OOP mechanism in which one class acquires the properties and behaviors of another class using the extends keyword. 
+// It promotes code reusability and establishes an IS-A relationship.
+
+// Notice the important words:
+
+// acquires
+// code reusability
+// IS-A relationship
+
+// Those are the keywords interviewers love to hear.
+    
 class Animal{
     String name;
     
