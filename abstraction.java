@@ -1,5 +1,10 @@
 // Abstraction in Java is the process of hiding internal implementation details and showing only the essential features of an object to the user. 
 // It shifts the developer's focus from how an object performs an action to what it does
+// Java provides two ways to implement abstraction depending on the level of hiding required:
+
+// abstract class  
+//   and 
+// interface
 
 // An abstract class is a class that cannot be instantiated and may contain both abstract methods (without implementation) and concrete methods (with implementation). 
 // It is used to provide a common base while forcing subclasses to implement specific behavior.
